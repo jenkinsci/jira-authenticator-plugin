@@ -78,7 +78,7 @@ public class JiraAuthenticationService {
     }
 
     /**
-     * Get a user gruops
+     * Get a user groups
      * 
      * @param pUsername
      *            the user whos groups should be loaded
